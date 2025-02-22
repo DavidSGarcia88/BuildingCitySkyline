@@ -18,10 +18,6 @@ This project is a simple animated city skyline created using HTML and CSS. It fe
 1. Clone or download the repository.
 2. Open `index.html` in a web browser to view the city skyline.
 
-## Preview
-
-![City Skyline Preview](preview.png) *(Replace with an actual screenshot if available.)*
-
 ## Technologies Used
 
 - **HTML5** - For structuring the content.
